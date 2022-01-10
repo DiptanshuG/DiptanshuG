@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [Diptanshug.github.io](Diptanshug.github.io)
+
 
 - 📫 How to reach me **Diptanshubhawsar50@gmail.com**
 
-- 📄 Know about my experiences [infotome.netlify.app](infotome.netlify.app)
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
