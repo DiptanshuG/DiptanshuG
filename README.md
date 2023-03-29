@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptanshug&label=Profile%20views&color=0e75b6&style=flat" alt="diptanshug" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **WEB 3.0**
 
 
 
